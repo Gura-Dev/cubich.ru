@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Gura-Dev/cubich.ru-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Gura-Dev/cubich.ru-frontend.git
+[submodule "skin-service"]
+	path = skin-service
+	url = git@github.com:Gura-Dev/skin-service.git
